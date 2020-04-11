@@ -1,0 +1,17 @@
+<?php
+
+namespace DummyNamespace;
+
+use App\Http\Controllers\BaseController;
+
+class Controller extends BaseController
+{
+    protected $logGroup = 'dummy';
+
+    public static $defaultColumns = [
+    ];
+
+    public static $defaultSortOrder = [
+        // ['key' => 'utgivelsesaar', 'direction' => 'desc'],
+    ];
+}

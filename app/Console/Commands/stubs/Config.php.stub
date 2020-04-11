@@ -1,0 +1,9 @@
+<?php
+
+namespace DummyNamespace;
+
+use App\Bases\Config as BaseConfig;
+
+class Config extends BaseConfig
+{
+}

@@ -1,0 +1,39 @@
+<?php
+
+namespace DummyNamespace;
+
+use App\Schema\Schema as BaseSchema;
+
+class Schema extends BaseSchema
+{
+    protected $schema = [
+        "id" => "dummy",
+        "fields" => [
+
+            // ID
+            [
+                "key" => "id",
+                "type" => "incrementing",
+                "displayable" => true,
+            ],
+
+            // Sist endret
+            [
+                "key" => "created_at",
+                "type" => "simple",
+                "edit" => false,
+                "search" => false,
+                "columnClassName" => "dt-body-nowrap",
+            ],
+
+            // Sist endret
+            [
+                "key" => "updated_at",
+                "type" => "simple",
+                "edit" => false,
+                "search" => false,
+                "columnClassName" => "dt-body-nowrap",
+            ],
+        ],
+    ];
+}

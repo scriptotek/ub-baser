@@ -1,0 +1,33 @@
+<?php
+
+use App\Traits\MigrationHelper;
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class DummyClass extends Migration
+{
+    use MigrationHelper;
+
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('dummy', function (Blueprint $table) {
+            $this->addCommonFields($table);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('dummy');
+    }
+}
