@@ -33,6 +33,7 @@ class AppServiceProvider extends ServiceProvider
         \App\Bases\Litteraturkritikk\Person::observe(\App\Bases\Litteraturkritikk\PersonObserver::class);
         \App\Bases\Dommer\Record::observe(\App\Bases\Dommer\RecordObserver::class);
         \App\Bases\Opes\Record::observe(\App\Bases\Opes\RecordObserver::class);
+        \App\Bases\Sakbib\Publication::observe(\App\Bases\Sakbib\RecordObserver::class);
     }
 
     /**

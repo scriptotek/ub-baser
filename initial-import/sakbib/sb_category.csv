@@ -1,0 +1,61 @@
+"id","name","description","parent_category_id"
+1,"Top","No description. This topic is in itself not relevant, it is just a 'topmost parent' for the topic hierarchy.",NULL
+78,"XSakprosaens sosiologi","Kategorien omfatter også skriftkultur",1
+75,"XSakprosa i privatlivet","",101
+76,"XSakprosaens teori og metode","",1
+73,"XSakprosa i arbeids- og organisasjonsliv","",101
+74,"xSakprosa i høyere utdanning og vitenskap","",101
+60,"!Kategorimerket","Disse skal være ferdig kategorimerket av Sine eller Johan og skal ikke være merket med ""usikker kategorisering"". ",1
+61,"!_Nøkkelordmerket","av Sine elller Johan",1
+65,"xSakprosa i offentligheten","",101
+66,"xOffentlig mening, debatt","",65
+67,"xPolitikk","",65
+68,"xMyndighetenes sakprosa","",65
+69,"xMassemedia","",65
+70,"xTidsskrifter og fagpresse","",65
+71,"xFaglitteratur for allmennheten","",65
+72,"xInformasjon og markedskommunikasjon","",65
+95,"!verifisert i katalog","",1
+58,"!OBS: undersøkes nærmere","",1
+81,"!_diskvalifiseres?","",58
+83,"!_nøkkelord_trengs?","Sine: usikker på nøkkelord, trengs kanskje flere",58
+84,"!_usikker_kategorisering","sine: usikker eller manglende kategorisering",58
+85,"!_fra_forfatternes_litthist_ukategorisert","fra forfatternes litteraturhistorie (ikke kategorisert)",58
+86,"xReligion, livssyn","",65
+87,"xLitteraturkritikk","",65
+88,"xEssayistikk","",71
+89,"xFakta og dokumentar","",71
+90,"xFritid og underholdning","",71
+91,"XSakprosa i skole og barnehage","",101
+92,"XDen litterære institusjonen","",78
+93,"!Allmenn litteraturhistorie","Her er mest forskning på skjønnlitteratur; skal hele kategorien ut? (Jf. lærebøker i grunn- og vdg. skole)",1
+94,"!Lærebøker i grunn- og videregående skole","Inneholder generelle lærebøker i norsk, bør fjernes. (Jf. almenn litt.hist.)",1
+96,"!verifisert fysisk","",1
+97,"!forsøkt verifisert","",1
+98,"!red må sjekke","",1
+99,"!_i_tvil_om_katalogisering","",58
+100,"xSkriftkultur","",78
+101,"xSakprosa i ulike kontekster","",1
+102,"!_diskvalifisert","Redaktøren har stadfesta at desse skal diskvalifiserast. Førebels er dei merka ""interne"", dvs. berre administratorar kan sjå dei. ",1
+103,"Sakprosaens teori og metode","",1
+104,"Sakprosaens sosiologi","Kategorien omfatter også skriftkultur",1
+105,"Den litterære institusjonen","",104
+106,"Skriftkultur","",104
+107,"Sakprosa i ulike kontekster","",1
+108,"Arbeids- og organisasjonsliv","",107
+109,"Privatlivet","",107
+110,"Skole og barnehage","",107
+111,"Høyere utdanning og vitenskap","",107
+112,"Offentligheten","",107
+113,"Faglitteratur for allmennheten","",112
+114,"Essayistikk","",113
+115,"Fakta og dokumentar","",113
+116,"Fritid og underholdning","",113
+117,"Informasjon og markedskommunikasjon","",112
+118,"Litteraturkritikk","",112
+119,"Massemedia","",112
+120,"Myndighetenes sakprosa","",112
+121,"Offentlig mening, debatt","",112
+122,"Politikk","",112
+123,"Religion, livssyn","",112
+124,"Tidsskrifter og fagpresse","",112
